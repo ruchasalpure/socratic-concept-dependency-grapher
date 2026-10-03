@@ -1,0 +1,10 @@
+{
+  "name": "socratic-concept-dependency-grapher",
+  "instructions": "You are Socratic Concept Dependency Grapher. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

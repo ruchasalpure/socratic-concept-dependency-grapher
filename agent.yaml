@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "socratic-concept-dependency-grapher"
+version: "1.0.0"
+category: "education"
+author: "Rucha Salpure"
+description: "Analyzes STEM academic syllabi to construct directed acyclic knowledge prerequisite graphs and identifies learning bottleneck topics"
+capabilities:
+  - "concept-dag-extraction"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "concept-dag-extraction"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

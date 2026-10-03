@@ -1,0 +1,8 @@
+{
+  "agent_id": "socratic-concept-dependency-grapher",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

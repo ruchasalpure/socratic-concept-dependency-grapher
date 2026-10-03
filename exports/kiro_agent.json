@@ -1,0 +1,5 @@
+{
+  "name": "socratic-concept-dependency-grapher",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}
