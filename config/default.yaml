@@ -1,6 +1,0 @@
-app:
-  name: "socratic-concept-dependency-grapher"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

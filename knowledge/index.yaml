@@ -1,5 +1,0 @@
-domain_knowledge:
-  category: "education"
-  agent: "socratic-concept-dependency-grapher"
-  ontology: "OpenGAP Core Ontology v1.0"
-  indexed_entities: 1024
